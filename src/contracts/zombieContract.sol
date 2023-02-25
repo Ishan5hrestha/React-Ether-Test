@@ -1,4 +1,5 @@
 // Practise from cryptozombies.io Chapter 1-13
+// My zombie link: https://share.cryptozombies.io/en/lesson/1/share/dabaiZombie?id=Y3p8NTc1NzAy
 pragma solidity >=0.5.0 <0.6.0;
 
 contract ZombieFactory {
