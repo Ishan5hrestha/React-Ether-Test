@@ -7,3 +7,8 @@
     Deployed simple contract from Remix IDE. Get ABI and put the contract address in code.
 
     Started CryptoZombie tutorial from cryptoZombie.io
+    mapping and address
+    msg.sender to get own address
+    function and inheritance
+    importing different contract from file
+    existance of emit
